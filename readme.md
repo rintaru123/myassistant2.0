@@ -1,83 +1,135 @@
-# Ассистент 2.0
+[SCREENSHOTS HERE]
 
-Элегантный и мощный персональный ассистент, созданный с помощью Python и PyQt6. Это приложение сочетает в себе иерархическую систему заметок, удобный менеджер задач и полноэкранный "Дзен-режим" для максимальной концентрации.
-
-![GIF-демонстрация программы](link_to_your_gif.gif) <!-- Замените на ссылку на вашу гифку -->
-
-## ✨ Ключевые особенности
-
--   **Иерархические заметки:** Организуйте свои мысли и проекты с помощью вложенных папок и заметок в удобном древовидном представлении.
--   **Менеджер задач:** Управляйте своими задачами в отдельных списках, отмечайте выполненные и используйте шаблоны для быстрого добавления.
--   **Дзен-режим:** Перейдите в полноэкранный, минималистичный редактор с фоновой музыкой и таймером Pomodoro, чтобы полностью сфокусироваться на работе.
--   **Гибкая кастомизация:** Настраивайте всё — от цветовой схемы (светлая/тёмная) и акцентного цвета до шрифтов и отступов в редакторе.
--   **Встроенный аудиоплеер:** Слушайте любимую музыку прямо в приложении, управляя плейлистами и воспроизведением.
--   **Экспорт в Markdown:** Легко экспортируйте все ваши заметки с сохранением структуры папок в один Markdown-файл.
--   **Многоязычность:** Поддержка русского и английского языков с возможностью легкого добавления новых локализаций.
-
-## 🛠️ Технологии
-
--   **Язык:** Python 3
--   **GUI:** PyQt6
--   **Формат данных:** JSON
-
-## 🚀 Начало работы
-
-1.  Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/ваш-логин/assistant-2.0.git
-    cd assistant-2.0
-    ```
-2.  Установите зависимости (рекомендуется использовать виртуальное окружение):
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Запустите приложение:
-    ```bash
-    python main.py
-    ```
-
-## 📜 Лицензия
-
-Этот проект распространяется под лицензией MIT. См. файл `LICENSE` для получения дополнительной информации.
-***
 # Assistant 2.0
 
-An elegant and powerful personal assistant built with Python and PyQt6. This application combines a hierarchical note-taking system, a convenient task manager, and a full-screen "Zen Mode" for maximum focus.
+A versatile desktop assistant designed for notes, tasks, and focused work, created in a unique collaboration between a human developer and AI.
 
-![GIF Demo of the application](link_to_your_gif.gif) <!-- Replace with the link to your GIF -->
+This project was born out of the desire to create a single, highly customizable tool that combines everyday task management with a powerful, distraction-free environment for creative writing and deep work. It's a testament to modern development workflows, where human creativity is augmented by artificial intelligence to achieve a polished and feature-rich result.
+
+---
 
 ## ✨ Key Features
 
--   **Hierarchical Notes:** Organize your thoughts and projects with nested folders and notes in a user-friendly tree view.
--   **Task Manager:** Manage your tasks in separate lists, check off completed items, and use templates for quick entry.
--   **Zen Mode:** Switch to a full-screen, minimalist editor with background music and a Pomodoro timer to fully concentrate on your work.
--   **Flexible Customization:** Customize everything—from the color scheme (light/dark) and accent color to fonts and editor padding.
--   **Built-in Audio Player:** Listen to your favorite music directly within the app, managing playlists and playback.
--   **Markdown Export:** Easily export all your notes, preserving the folder structure, into a single Markdown file.
--   **Multilingual Support:** Supports English and Russian, with an easy way to add new localizations.
+*   **📝 Powerful Note Editor:** A central hub for all your thoughts and ideas. The editor supports basic text formatting and is deeply integrated with the task and tagging system.
 
-## 🛠️ Tech Stack
+*   **✅ Flexible Task Management:** A complete to-do list system with features like:
+    *   Multiple, independent task lists.
+    *   Marking tasks as complete.
+    *   Filtering tasks (All, Active, Completed).
+    *   Task templates for recurring items.
 
--   **Language:** Python 3
--   **GUI:** PyQt6
--   **Data Format:** JSON
+*   **🧘 Zen Mode:** A beautiful, fully immersive, distraction-free fullscreen editor designed for maximum focus.
+    *   Customizable solid color or image backgrounds.
+    *   Adjustable editor opacity for a "glass" effect over the background.
+    *   Configurable text padding to create the perfect writing canvas.
+
+*   **🍅 Integrated Pomodoro Timer:** A Pomodoro timer is built directly into the Zen Mode interface to help you manage your work and break intervals.
+
+*   **🎨 Deep Customization:** Tailor the application to your exact preferences. The settings panel allows you to control:
+    *   **Themes:** Full support for Light and Dark modes.
+    *   **Colors:** Customize the background, text, and accent colors for both themes.
+    *   **Fonts:** Choose any font installed on your system for the editor, set its size, color, and alignment.
+    *   **Layout:** Adjust the minimum width of the columns in the main window to fit your workflow.
+
+*   **🎵 Built-in Media Player:** A global audio player accessible from all modes to play your favorite focus music.
+
+*   **🌍 Localization:** The interface is available in both English and Russian, with the ability to switch on the fly.
+
+---
+
+## 🛠️ Technologies Used
+
+*   **Python 3**
+*   **PyQt6** for the graphical user interface.
+
+---
 
 ## 🚀 Getting Started
 
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/assistant-2.0.git
-    cd assistant-2.0
-    ```
-2.  Install the dependencies (it's recommended to use a virtual environment):
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Run the application:
-    ```bash
-    python main.py
-    ```
+1.  Go to the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) page.
+2.  Download the latest archive (`MyAssistant.zip`) for Windows.
+3.  Extract the archive to any folder.
+4.  Run `MyAssistant.exe`.
 
-## 📜 License
+---
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## 🙏 Acknowledgements
+
+*   Icons provided by the Qt Framework and [Icons8](https://icons8.com).
+*   Music tracks used in the `zen_audio` folder are provided by various artists under Creative Commons licenses. See the "About" dialog in the application for full attribution.
+
+---
+---
+---
+
+[СКРИНШОТЫ ЗДЕСЬ]
+
+# Ассистент 2.0
+
+Универсальный настольный ассистент для заметок, задач и сфокусированной работы, созданный в результате уникального сотрудничества человека и ИИ.
+
+Этот проект родился из желания создать единый, гибко настраиваемый инструмент, который объединяет управление повседневными задачами с мощной, свободной от отвлечений средой для творчества и глубокой работы. Это демонстрация современного подхода к разработке, где креативность человека дополняется искусственным интеллектом для достижения качественного и многофункционального результата.
+
+---
+
+## ✨ Ключевые особенности
+
+*   **📝 Мощный редактор заметок:** Центральное место для всех ваших мыслей и идей. Редактор поддерживает базовое форматирование и тесно интегрирован с системой задач и тегов.
+
+*   **✅ Гибкий менеджер задач:** Полноценная система списков дел с такими возможностями, как:
+    *   Создание нескольких независимых списков задач.
+    *   Отметка задач как выполненных.
+    *   Фильтрация задач (Все, Активные, Выполненные).
+    *   Шаблоны для быстрого добавления типовых задач.
+
+*   **🧘 Режим Zen:** Красивый, полноэкранный редактор без отвлекающих элементов, созданный для максимальной концентрации.
+    *   Настраиваемый фон в виде сплошного цвета или изображения.
+    *   Регулируемая прозрачность редактора для создания эффекта "стекла" поверх фона.
+    *   Настраиваемые отступы текста для создания идеального холста для письма.
+
+*   **🍅 Встроенный Pomodoro-таймер:** Таймер Pomodoro встроен прямо в интерфейс режима Zen, чтобы помочь вам управлять рабочими интервалами и перерывами.
+
+*   **🎨 Глубокая кастомизация:** Настройте приложение в точном соответствии с вашими предпочтениями. Панель настроек позволяет контролировать:
+    *   **Темы:** Полная поддержка светлой и тёмной тем.
+    *   **Цвета:** Настройте цвет фона, текста и акцентный цвет для обеих тем.
+    *   **Шрифты:** Выберите любой установленный в системе шрифт для редактора, установите его размер, цвет и выравнивание.
+    *   **Макет:** Отрегулируйте минимальную ширину колонок в оконном режиме под ваш рабочий процесс.
+
+*   **🎵 Встроенный медиаплеер:** Глобальный аудиоплеер, доступный из всех режимов, для воспроизведения вашей любимой музыки для концентрации.
+
+*   **🌍 Локализация:** Интерфейс доступен на русском и английском языках с возможностью переключения "на лету".
+
+---
+
+## 🛠️ Используемые технологии
+
+*   **Python 3**
+*   **PyQt6** для графического интерфейса.
+
+---
+
+## 🚀 Установка
+
+1.  Перейдите на страницу [Релизы](https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/releases).
+2.  Скачайте последний архив (`MyAssistant.zip`) для Windows.
+3.  Распакуйте архив в любую папку.
+4.  Запустите `MyAssistant.exe`.
+
+---
+
+## 📄 Лицензия
+
+Проект распространяется под лицензией MIT. Подробности смотрите в файле `LICENSE`.
+
+---
+
+## 🙏 Благодарности
+
+*   Иконки предоставлены фреймворком Qt и [Icons8](https://icons8.com).
+*   Музыкальные треки в папке `zen_audio` предоставлены различными авторами под лицензиями Creative Commons. Полный список авторов можно найти в диалоговом окне "О программе" в самом приложении.
