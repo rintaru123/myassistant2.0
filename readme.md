@@ -1,4 +1,22 @@
-[SCREENSHOTS HERE]
+![Start button](screenshots/1.ru.png)
+
+![Window mode](screenshots/2.ru.png)
+
+![Zen mode](screenshots/3.ru.png)
+
+![Window mode with audio](screenshots/4.ru.png)
+
+![Settings tab 1](screenshots/5.ru.png)
+
+![Settings tab 2](screenshots/6.ru.png)
+
+![Settings tab 3](screenshots/7.ru.png)
+
+![Settings tab 8](screenshots/8.ru.png)
+
+![Window mode english](screenshots/9.en.png)
+
+![Start mode english with audio](screenshots/10.en.png)
 
 # Assistant 2.0
 
@@ -64,11 +82,27 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 *   Icons provided by the Qt Framework and [Icons8](https://icons8.com).
 *   Music tracks used in the `zen_audio` folder are provided by various artists under Creative Commons licenses. See the "About" dialog in the application for full attribution.
 
----
----
----
 
-[СКРИНШОТЫ ЗДЕСЬ]
+
+![Start button](screenshots/1.ru.png)
+
+![Window mode](screenshots/2.ru.png)
+
+![Zen mode](screenshots/3.ru.png)
+
+![Window mode with audio](screenshots/4.ru.png)
+
+![Settings tab 1](screenshots/5.ru.png)
+
+![Settings tab 2](screenshots/6.ru.png)
+
+![Settings tab 3](screenshots/7.ru.png)
+
+![Settings tab 8](screenshots/8.ru.png)
+
+![Window mode english](screenshots/9.en.png)
+
+![Start mode english with audio](screenshots/10.en.png)
 
 # Ассистент 2.0
 
